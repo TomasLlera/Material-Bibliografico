@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82440E32-C420-4DD5-AA83-924C728862F5}|Material-Bibliografico.csproj|C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\clases\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82440E32-C420-4DD5-AA83-924C728862F5}|Material-Bibliografico.csproj|solutionrelative:clases\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82440E32-C420-4DD5-AA83-924C728862F5}|Material-Bibliografico.csproj|c:\\users\\tomas\\source\\repos\\material-bibliografico\\clases\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82440E32-C420-4DD5-AA83-924C728862F5}|Material-Bibliografico.csproj|solutionrelative:clases\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82440E32-C420-4DD5-AA83-924C728862F5}|Material-Bibliografico.csproj|C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82440E32-C420-4DD5-AA83-924C728862F5}|Material-Bibliografico.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82440E32-C420-4DD5-AA83-924C728862F5}|Material-Bibliografico.csproj|C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\clases\\material_bibliografico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82440E32-C420-4DD5-AA83-924C728862F5}|Material-Bibliografico.csproj|solutionrelative:clases\\material_bibliografico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82440E32-C420-4DD5-AA83-924C728862F5}|Material-Bibliografico.csproj|C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\clases\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82440E32-C420-4DD5-AA83-924C728862F5}|Material-Bibliografico.csproj|solutionrelative:clases\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82440E32-C420-4DD5-AA83-924C728862F5}|Material-Bibliografico.csproj|C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\clases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82440E32-C420-4DD5-AA83-924C728862F5}|Material-Bibliografico.csproj|solutionrelative:clases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82440E32-C420-4DD5-AA83-924C728862F5}|Material-Bibliografico.csproj|C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\clases\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82440E32-C420-4DD5-AA83-924C728862F5}|Material-Bibliografico.csproj|solutionrelative:clases\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\Clases\\Autor.cs",
+              "RelativeDocumentMoniker": "Clases\\Autor.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\Clases\\Autor.cs",
+              "RelativeToolTip": "Clases\\Autor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:04:34.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\Clases\\Menu.cs",
+              "RelativeDocumentMoniker": "Clases\\Menu.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\Clases\\Menu.cs",
+              "RelativeToolTip": "Clases\\Menu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:04:21.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Material_Bibliografico.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\Clases\\Material_Bibliografico.cs",
+              "RelativeDocumentMoniker": "Clases\\Material_Bibliografico.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\Clases\\Material_Bibliografico.cs",
+              "RelativeToolTip": "Clases\\Material_Bibliografico.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:04:11.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Revista.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\Clases\\Revista.cs",
+              "RelativeDocumentMoniker": "Clases\\Revista.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\Clases\\Revista.cs",
+              "RelativeToolTip": "Clases\\Revista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:03:10.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\Clases\\Libro.cs",
+              "RelativeDocumentMoniker": "Clases\\Libro.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\Clases\\Libro.cs",
+              "RelativeToolTip": "Clases\\Libro.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:03:01.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ebook.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\Clases\\Ebook.cs",
+              "RelativeDocumentMoniker": "Clases\\Ebook.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\Clases\\Ebook.cs",
+              "RelativeToolTip": "Clases\\Ebook.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T22:02:54.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tomas\\source\\repos\\Material-Bibliografico\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:58:05.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
