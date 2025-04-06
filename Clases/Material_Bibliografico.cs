@@ -9,10 +9,6 @@ namespace Practica_ProgramacionII.Clases
 {
     class Material_Bibliografico
     {
-        public List<Libro> libro = new List<Libro>();
-        public List<Ebook> ebook = new List<Ebook>();
-        public List<Revista> revista = new List<Revista>();
-
         protected string titulo;
         protected int año;
 

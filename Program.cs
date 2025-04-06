@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Practica_ProgramacionII.Clases;
 
 namespace Material_Bibliografico
 {
@@ -10,6 +11,8 @@ namespace Material_Bibliografico
     {
         static void Main(string[] args)
         {
+            Menu menu = new Menu();
+            menu.MenuPrincipal();
         }
 
     }

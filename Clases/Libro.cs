@@ -9,7 +9,7 @@ namespace Practica_ProgramacionII.Clases
     class Libro : Material_Bibliografico
     {
         private int paginas;
-        private Autor autor;
+        public Autor autor;
 
         public int Paginas { get => paginas; set => paginas = value; }
 

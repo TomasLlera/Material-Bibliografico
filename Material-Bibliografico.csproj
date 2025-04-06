@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Clases\Autor.cs" />
+    <Compile Include="Clases\Biblioteca.cs" />
     <Compile Include="Clases\Ebook.cs" />
     <Compile Include="Clases\Libro.cs" />
     <Compile Include="Clases\Material_Bibliografico.cs" />

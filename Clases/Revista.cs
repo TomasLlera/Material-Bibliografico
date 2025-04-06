@@ -9,7 +9,7 @@ namespace Practica_ProgramacionII.Clases
     class Revista : Material_Bibliografico
     {
         private int volumen;
-        private Autor autor;
+        public Autor autor;
 
         public int Volumen { get => volumen; set => volumen = value; }
 

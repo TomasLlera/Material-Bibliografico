@@ -1,0 +1,7 @@
+C:\Users\tomas\source\repos\Material-Bibliografico\bin\Debug\Material-Bibliografico.exe.config
+C:\Users\tomas\source\repos\Material-Bibliografico\bin\Debug\Material-Bibliografico.exe
+C:\Users\tomas\source\repos\Material-Bibliografico\bin\Debug\Material-Bibliografico.pdb
+C:\Users\tomas\source\repos\Material-Bibliografico\obj\Debug\Material-Bibliografico.csproj.AssemblyReference.cache
+C:\Users\tomas\source\repos\Material-Bibliografico\obj\Debug\Material-Bibliografico.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Material-Bibliografico\obj\Debug\Material-Bibliografico.exe
+C:\Users\tomas\source\repos\Material-Bibliografico\obj\Debug\Material-Bibliografico.pdb
